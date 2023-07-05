@@ -1,0 +1,9 @@
+# Internal
+internal/
+
+# Other
+.env
+ENV
+.secret
+.asc
+.bak
