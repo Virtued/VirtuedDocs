@@ -1,3 +1,3 @@
-## Virtued Network Wiki
+## Virtued Network Documentation
 
 ### See Wiki Tab
